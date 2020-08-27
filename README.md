@@ -1,3 +1,1 @@
-﻿Out of Office Manager
-=====================
-
+A simple tool that was created to allow the toggling of Out of Office as well as the ability to change either the internal or external (or both if you so wish) out of office messages on behalf of others.
